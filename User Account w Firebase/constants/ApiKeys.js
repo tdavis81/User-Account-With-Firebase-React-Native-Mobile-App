@@ -1,6 +1,6 @@
 export default {
     FirebaseConfig: {
-        apiKey: "AIzaSyDCG7agWQb9KOHe-aARPLGLwrN7r5260a4",
+        apiKey: "app_id",
         authDomain: "fortnitetv-26656.firebaseapp.com",
         databaseURL: "https://fortnitetv-26656.firebaseio.com",
         projectId: "fortnitetv-26656",
